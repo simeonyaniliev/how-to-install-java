@@ -18,6 +18,9 @@ JDK is a superset of JRE, and contains everything that is in JRE, plus tools suc
 Here we have different options with different license agreements. Preferably you should install OpenJDK to escape any license violations and agreements, especially if you use your computer for bussines work as well.
 
 ## How to install Java - Oracle Java JDK
-  Windows, Mac, Linux
+  For Windows, Mac, Linux:
+  https://github.com/simeonyaniliev/how-to-install-java/blob/master/how-to-install-java-oracle-jdk-all-os.md
+  
 ## How to install Java - OpenJDK
-  Windows, Mac, Linux
+  For Windows, Mac, Linux:
+  https://github.com/simeonyaniliev/how-to-install-java/blob/master/how-to-install-java-open-jdk-all-os.md
