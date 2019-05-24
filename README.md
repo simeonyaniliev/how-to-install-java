@@ -11,7 +11,8 @@ Usually, if you only care about running Java programs on computer you will only 
 JDK is a superset of JRE, and contains everything that is in JRE, plus tools such as the compilers and debuggers necessary for developing applets and applications. JRE provides the libraries, the Java Virtual Machine (JVM), and other components to run applets and applications written in the Java programming language.
 
 # How to install Java (Oracle JRE - Java Runtime Environment)
- Windows, Mac, Linux
+ For Windows, Mac, Linux:
+ https://github.com/simeonyaniliev/how-to-install-java/blob/master/how-to-install-java-jre-all-os.md
 
 # How to install Java (JDK - Java Development Kit)
 Here we have different options with different license agreements. Preferably you should install OpenJDK to escape any license violations and agreements, especially if you use your computer for bussines work as well.
