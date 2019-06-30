@@ -23,7 +23,7 @@ Steps to install:
 	○ Enter the variable value as the installation path of the JDK (without the bin sub-folder).  
 	○ Click OK.  
 	○ Click Apply Changes.    
-5.(Optional) Configure the JDK in your IDE (e.g. IntelliJ or Eclipse or MSCode).   
+5. (Optional) Configure the JDK in your IDE (e.g. IntelliJ or Eclipse or MSCode).   
 You are set.   
 To see if it worked, open up the Command Prompt and type java -version and see if it prints your newly installed JDK.  
 If you want to uninstall - just undo the above steps.  
