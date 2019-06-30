@@ -9,7 +9,7 @@ Following the guides here:
 https://stackoverflow.com/questions/52511778/how-to-install-openjdk-11-on-windows
 
 Steps to install:  
-1. Download from here:  
+1. Download JavaOpenJDK installation zip archive for Windows from here:  
 	https://jdk.java.net/12/  
 2. Extract the zip file into a folder, e.g. C:\Program Files\Java\ and it will create a jdk-12 folder (where the bin folder is a direct sub-folder). You may need Administrator privileges to extract the zip file to this location.  
 3. Set a PATH:  
@@ -22,7 +22,7 @@ Steps to install:
 	○ Enter the variable name as JAVA_HOME.  
 	○ Enter the variable value as the installation path of the JDK (without the bin sub-folder).  
 	○ Click OK.  
-	○ Click Apply Changes.   
+	○ Click Apply Changes.    
 5.(Optional) Configure the JDK in your IDE (e.g. IntelliJ or Eclipse or MSCode).   
 You are set.   
 To see if it worked, open up the Command Prompt and type java -version and see if it prints your newly installed JDK.  
