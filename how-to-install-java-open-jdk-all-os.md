@@ -27,7 +27,7 @@ Steps to install:
 You are set.   
 To see if it worked, open up the Command Prompt and type java -version and see if it prints your newly installed JDK.  
 If you want to uninstall - just undo the above steps.  
-Note: You can also point JAVA_HOME to the folder of your JDK installations and then set the PATHvariable to %JAVA_HOME%\bin. So when you want to change the JDK you change only the JAVA_HOMEvariable and leave PATH as it is.  
+6. (Optional) You can also point JAVA_HOME to the folder of your JDK installations and then set the PATHvariable to %JAVA_HOME%\bin. So when you want to change the JDK you change only the JAVA_HOMEvariable and leave PATH as it is.  
 
 
 ## OpenJDK For Mac
