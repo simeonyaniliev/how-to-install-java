@@ -4,7 +4,7 @@
 ##Universal download page:
 http://jdk.java.net/12/
 
-## OpenJDK Windows guide:
+## OpenJDK (Oracle) Windows guide:
 Following the guides here:
 https://stackoverflow.com/questions/52511778/how-to-install-openjdk-11-on-windows
 
